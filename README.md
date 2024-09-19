@@ -2,6 +2,9 @@
 
 Este é um projeto de chatbot simples desenvolvido com **HTML** e **JavaScript**. O objetivo deste projeto é testar o conhecimento de **Celso Filho** e fornecer respostas automáticas a algumas perguntas pré-definidas.
 
+# LINK PARA ENTRAR NO SITE
+https://chat-bot-simples.vercel.app/
+
 ## Funcionalidades
 
 - O chatbot apresenta uma introdução automática ao iniciar, explicando que é um projeto de teste e sugerindo perguntas que o usuário pode fazer.
